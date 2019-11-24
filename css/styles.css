@@ -81,6 +81,29 @@ nav>ul>li>ul{
     margin-left: 10%;
     padding-bottom: 40%;
 }
-.projects, .container{
-    
+.container1{
+    display:flex;
+    margin-top:20%;
+    justify-content: space-between;
+}
+.container1 div{
+    border:1px solid;
+    padding:5px;
+}
+.skills{
+    flex:1;
+    order:2;
+    height:20%;
+}
+.content{
+    flex:1
+    order:1;
+    height:20%;
+    font-size:25px;
+}
+.content2{
+    flex:1;
+    order:3
+    height:25%;
+    font-size:25px;
 }
