@@ -94,16 +94,19 @@ nav>ul>li>ul{
     flex:1;
     order:2;
     height:20%;
+    background-color: white;
 }
 .content{
     flex:1
     order:1;
     height:20%;
     font-size:25px;
+    background-color:white;
 }
 .content2{
     flex:1;
     order:3
     height:25%;
     font-size:25px;
+    background-color:white;
 }
