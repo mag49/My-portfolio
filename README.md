@@ -6,8 +6,8 @@
 ## Setup/Installation Requirement
 To start using this project use the following commands:
 
-git clonehttps://mag49.github.io/My-portfolio/
-cd my-          portfolio
+git clone https://mag49.github.io/My-portfolio/
+cd my-portfolio
 atom .
 code . [//]: # (this is if Visual Studio Code is your preferred text editor)
 ## Known Bugs
@@ -18,4 +18,4 @@ HTML and CSS
 You can make contributions should you identify any issue
 ### License
 No licence
-  https://mag49.github.io/My-portfolio/
+https://mag49.github.io/My-portfolio/
