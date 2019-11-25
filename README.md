@@ -6,8 +6,8 @@
 ## Setup/Installation Requirement
 To start using this project use the following commands:
 
-git clone https://github.com/moringaschool/hello-world.git
-cd hello-world
+git clonehttps://mag49.github.io/My-portfolio/
+cd my-          portfolio
 atom .
 code . [//]: # (this is if Visual Studio Code is your preferred text editor)
 ## Known Bugs
