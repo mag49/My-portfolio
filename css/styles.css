@@ -8,9 +8,10 @@ body{
     background-color: black;
     margin:0;
     padding:0;
+    scroll-behavior: smooth;
 }
  
-a{
+#aa{
     text-decoration:none;
     color:inherit;
 } 
@@ -32,20 +33,6 @@ nav ul li{
 nav ul li:hover{
     background-color:blue;
 }
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {...}
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {...}
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {...}
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {...}
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {...} 
 nav > ul> li >a{
     padding:30px;
     font-family:arial;
@@ -57,8 +44,25 @@ nav > ul> li >a{
 nav>ul>li>ul{
     display:inline-block;
     position:absolute;
-
 }
+@media screen and (min-width: 480px) {
+    body {
+        background-color: burlywood;
+        color: black;
+    }
+}
+@media screen and (min-width: 480px) {
+    body {
+        background-color: burlywood;
+        color: black;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: blueviolet;
+  }
+}
+
 .landing-text{
      position:absolute;
      top:20%;
