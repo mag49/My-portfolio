@@ -16,9 +16,9 @@ a{
 } 
 
 nav ul{
-   background-color: white;
+   background-color: grey;
    overflow:hidden;
-   color:black;
+   color:purple;
    padding:0;
    text-align:center;
    margin:0; 
@@ -48,7 +48,7 @@ nav>ul>li>ul{
 }
 .landing-text{
      position:absolute;
-     top:30%;
+     top:20%;
      width:100%;
      text-align: center;
      margin-right: 300%;
